@@ -4,13 +4,13 @@
 
 ### Action for infringement
 
-#### Milk Products
+ * Milk Products
 
 ### Action for annulment
 
 #### Plaumann
 
-#### Inuit
+ * Inuit
 
 #### Telefonica
 
