@@ -11,7 +11,7 @@
 ### EU Competences
 
  * Working Time Directive
- * Tobacco International
+ * Tobacco Advertising
 
 ### Human Rights Protection in the EU
 
