@@ -1,12 +1,12 @@
 # EU Law
 
-## 1. [Historical Developments and EU Institutions](1.%20historical) 
+## 1. [Historical Developments and EU Institutions](1.%20historical.md) 
 
 ### Law of Institutions
 
  * Roquettes Freres
 
-## 2. Decision-Making and EU Competences; Human Rights
+## 2. [Decision-Making and EU Competences; Human Rights]2.%20decision.md) 
 
 ### EU Competences
 
