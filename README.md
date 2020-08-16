@@ -6,7 +6,7 @@
 
  * Roquettes Freres
 
-## 2. [Decision-Making and EU Competences; Human Rights](2.%20decision.md) 
+## 2. [Decision-Making and EU Competences; Human Rights](2.%20decisions.md) 
 
 ### EU Competences
 
@@ -30,7 +30,7 @@
 
  * Order 2/13
 
-## 3. Internal Market: Free Movement of Goods
+## 3. [Internal Market: Free Movement of Goods](3.%goods.md) 
 
 ### Financial Barriers to Trade
 
@@ -49,7 +49,7 @@
  * Schmidberger
  * Gysbrechts
 
-## 4. Internal Market: Persons (including EU Citizenship)
+## 4. [Internal Market: Persons (including EU Citizenship)](4.%persons.md)
 
 ### Workers
 
