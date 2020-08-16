@@ -1,12 +1,50 @@
 # EU Law
 
+## 3. Internal Market: Goods
+
+### Financial Barriers to Trade
+
+ * Beer and Wine
+ * Outokumpu Oy
+
+### Non-Financial Barriers to Trade
+
+ * Dassonville
+ * Cassis de Dijon
+ * Henn and Darby
+ * Reinheitsgebot
+ * Keck
+ * Spanish Strawberries
+ * Gourmet
+ * Schmidberger
+ * Gysbrechts
+
+## 4. Internal Market: Persons (including EU Citizenship)
+
+### Workers
+
+ * Kemf
+ * Antonissen
+ * Bosman
+
+### Establishment and services
+ 
+ * Reyners
+ * Gehbard
+
+### EU Citizenship
+
+ * Baumbast
+ * Chen
+ * Zambrano
+
 ## 5. EU Competition Law
 
 ### Cartel Prohibition
 
  * Consten & Grundig
  * Ford
- & Courage/Crehan
+ * Courage/Crehan
 
 ### Abuse of Dominant Position
 
