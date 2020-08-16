@@ -1,6 +1,6 @@
 # EU Law
 
-## 1. Historical Developments and EU Institutions
+## 1. [historical|Historical Developments and EU Institutions]
 
 ### Law of Institutions
 
