@@ -6,7 +6,7 @@
 
  * Roquettes Freres
 
-## 2. [Decision-Making and EU Competences; Human Rights]2.%20decision.md) 
+## 2. [Decision-Making and EU Competences; Human Rights](2.%20decision.md) 
 
 ### EU Competences
 
