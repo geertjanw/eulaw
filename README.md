@@ -30,7 +30,7 @@
 
  * Order 2/13
 
-## 3. [Internal Market: Free Movement of Goods](3.%goods.md) 
+## 3. [Internal Market: Free Movement of Goods](3.%20goods.md) 
 
 ### Financial Barriers to Trade
 
@@ -49,7 +49,7 @@
  * Schmidberger
  * Gysbrechts
 
-## 4. [Internal Market: Persons (including EU Citizenship)](4.%persons.md)
+## 4. [Internal Market: Persons (including EU Citizenship)](4.%20persons.md)
 
 ### Workers
 
