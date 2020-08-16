@@ -8,26 +8,26 @@
 
 ### Action for annulment
 
-#### Plaumann
+ * Plaumann
 
  * Inuit
 
-#### Telefonica
+ * Telefonica
 
 ### Action for damages
 
-#### Bergaderm
+ * Bergaderm
 
 ### Preliminary reference procedure
 
-#### Cilfit
+ * Cilfit
 
-#### Dorsch Consult
+ * Dorsch Consult
 
-#### Foto-Frost
+ * Foto-Frost
 
 ### Access to national courts
 
-#### Rewe
+ * Rewe
 
-#### Heylens
+ * Heylens
