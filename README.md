@@ -1,6 +1,36 @@
 # EU Law
 
-## 3. Internal Market: Goods
+## 1. Historical Developments and EU Institutions
+
+### Law of Institutions
+
+ * Roquettes Freres
+
+## 2. Decision-Making and EU Competences; Human Rights
+
+### EU Competences
+
+ * Working Time Directive
+ * Tobacco International
+
+### Human Rights Protection in the EU
+
+#### Human Rights as General Principles
+
+ * Internationale Handelsgesellschaft
+ * Kadi
+
+#### Charter of Fundamental Rights of the EU
+
+ * Digital Rights Ireland
+ * Akerberg Frasson
+ * Bauer
+
+#### Accession EU to EHCR
+
+ * Order 2/13
+
+## 3. Internal Market: Free Movement of Goods
 
 ### Financial Barriers to Trade
 
