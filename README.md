@@ -68,7 +68,7 @@
  * Chen
  * Zambrano
 
-## 5. EU Competition Law
+## 5. [EU Competition Law](5.%20competition.md)
 
 ### Cartel Prohibition
 
@@ -85,7 +85,7 @@
 
  * Altmark
 
-## 6. Domestic Effects of EU Law
+## 6. [Domestic Effects of EU Law](6.%20effects.md)
 
 ### Primacy
 
@@ -132,7 +132,7 @@
  * Faccini Dori
  * Domnguez
 
-## 7. Legal Remedies
+## 7. [Legal Remedies](7.%20remedies.md)
 
 ### Action for infringement
 
